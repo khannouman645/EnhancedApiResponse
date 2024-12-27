@@ -122,13 +122,13 @@ The `ApiResponse<T>` class provides a consistent structure for all responses:
 
 ## Development
 Prerequisites
-*.NET SDK 6.0 or higher
-*NuGet CLI for packaging
+* .NET SDK 6.0 or higher
+* NuGet CLI for packaging
 ##Build the Project
 Clone the repository and build the solution:
 
 ```bash
-git clone [git Repository](https://github.com/khannouman645/EnhancedApiResponse.git)
+git clone https://github.com/khannouman645/EnhancedApiResponse.git
 cd EnhancedApiResponse
 dotnet build
 ```
@@ -136,15 +136,15 @@ dotnet build
 ### Contributing
 Contributions are welcome! Here's how you can contribute:
 
-*Fork the repository on GitHub.
-*Create a feature branch: git checkout -b feature-name.
-*Commit your changes: git commit -m "Add new feature".
-*Push to the branch: git push origin feature-name.
-*Submit a pull request.
+* Fork the repository on GitHub.
+* Create a feature branch: git checkout -b feature-name.
+* Commit your changes: git commit -m "Add new feature".
+* Push to the branch: git push origin feature-name.
+* Submit a pull request.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
-*Thanks to the .NET community for inspiration and support.
-*Special thanks to all contributors who have helped improve this package.
+* Thanks to the .NET community for inspiration and support.
+* Special thanks to all contributors who have helped improve this package.
