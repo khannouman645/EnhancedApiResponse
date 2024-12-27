@@ -128,7 +128,7 @@ Prerequisites
 Clone the repository and build the solution:
 
 ```bash
-git clone [https://github.com/your-repo/EnhancedApiResponse.git](https://github.com/khannouman645/EnhancedApiResponse.git)
+git clone [git Repository](https://github.com/khannouman645/EnhancedApiResponse.git)
 cd EnhancedApiResponse
 dotnet build
 ```
