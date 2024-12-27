@@ -7,8 +7,12 @@
 	  <Version>1.0.0</Version>
 	  <Authors>Nouman Khan</Authors>
 	  <Description>A package to simplify API response handling in .NET applications.</Description>
+	  <PackageReadmeFile>README.md</PackageReadmeFile>
 	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
 	  <RepositoryUrl>https://github.com/khannouman645/EnhancedApiResponse.git</RepositoryUrl>
+	  <tags>
+		  API,Response,ErrorHandling,Pagination,Middleware,.NET,APIResponse,Success,ExceptionHandling,NuGetPackage,WebAPI,ErrorResponse,DotNetCore
+	  </tags>
   </PropertyGroup>
 
   <ItemGroup>
