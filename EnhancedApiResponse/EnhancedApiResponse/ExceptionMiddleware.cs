@@ -33,7 +33,7 @@ namespace EnhancedApiResponse
 
         private static Task HandleExceptionAsync(HttpContext context, Exception exception)
         {
-            var response = ApiResponse<string>.Error("An unexpected error occurred.", exception.Message);
+            var response = ApiResponse<string>.FromException(exception);
 
             context.Response.ContentType = "application/json";
             context.Response.StatusCode = StatusCodes.Status500InternalServerError;
